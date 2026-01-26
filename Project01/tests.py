@@ -575,7 +575,7 @@ class DLLTests(unittest.TestCase):
 
     def test_dream_escaper(self):
 
-        # (1) Single-level DLL
+        # # (1) Single-level DLL
         dll = DLL()
         lst = ["Enter dream", "Steal secret", "Profit"]
         dll.list_to_dll(lst)

@@ -354,6 +354,7 @@ class DLL:
         self.tail = temp
         return None
 
+
 def dream_escaper(dll: DLL) -> DLL:
     """
     Takes the head of a multi-level DLL and compresses it into a single level DLL.
@@ -362,4 +363,24 @@ def dream_escaper(dll: DLL) -> DLL:
     :return: The new DLL.
     """
 
-    pass
+    simplifiedDll = DLL()
+
+    node = dll.head
+
+    while node != None:
+        simplifiedDll.push(node.value)
+
+        if node.child != None:
+            childDLL = DLL()
+            childDLL.head = node.child
+
+            subnodesList = dream_escaper(childDLL)
+            subnode = subnodesList.head
+
+            while subnode != None:
+                simplifiedDll.push(subnode.value)
+                subnode = subnode.next
+
+        node = node.next
+
+    return simplifiedDll
