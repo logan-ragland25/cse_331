@@ -340,7 +340,18 @@ class DLL:
 
         :return: None.
         """
+        node = self.head
+        while node != None:
+            ogNext = node.next
 
+            node.next = node.prev
+            node.prev = ogNext
+
+            node = ogNext
+
+        temp = self.head
+        self.head = self.tail
+        self.tail = temp
         return None
 
 def dream_escaper(dll: DLL) -> DLL:
@@ -350,4 +361,5 @@ def dream_escaper(dll: DLL) -> DLL:
     :param dll: The dll to turn into a single-level DLL.
     :return: The new DLL.
     """
+
     pass
