@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c3c1b57-2faa-4299-a858-8bb335ebc735" name="Changes" comment="Finished Second to Last Section" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;logan-ragland25&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/logan-ragland25/cse_331.git",
+    "accountId": "8bfb3797-be57-4711-9af1-233fa87a80f2"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="38idYdeszdoWocxPwH3HsQpzwPe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for CC01.tests.TestNonConstructibleChange.test_basic_case.executor": "Run",
+    "Python tests.Python tests for CC02.tests.TestFindUnsortedSubarray.executor": "Run",
+    "Python tests.Python tests for CC02.tests.TestFindUnsortedSubarray.test_basic_case.executor": "Run",
+    "Python tests.Python tests for CC02.tests.TestFindUnsortedSubarray.test_empty_input.executor": "Run",
+    "Python tests.Python tests for Project01.tests.DLLTests.executor": "Run",
+    "Python tests.Python tests for Project01.tests.DLLTests.test_empty.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_dll_to_list.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_empty.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_find.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_find_all.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_list_to_dll.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_pop.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_push.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_remove.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_remove_all.executor": "Run",
+    "Python tests.Python tests for tests.DLLTests.test_reverse.executor": "Run",
+    "Python tests.Python tests in tests.py.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/School/SS26/cse_331",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\School\SS26\cse_331\Project01" />
+      <recent name="D:\School\SS26\cse_331\CC02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\School\SS26\cse_331" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for tests.DLLTests.test_reverse">
+    <configuration name="Python tests for tests.DLLTests.test_find" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="cse_331" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.DLLTests.test_find&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.DLLTests.test_find_all" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="cse_331" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.DLLTests.test_find_all&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.DLLTests.test_remove" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="cse_331" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.DLLTests.test_remove&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.DLLTests.test_remove_all" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="cse_331" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.DLLTests.test_remove_all&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.DLLTests.test_reverse" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="cse_331" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.DLLTests.test_reverse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.DLLTests.test_reverse" />
+        <item itemvalue="Python tests.Python tests for tests.DLLTests.test_remove_all" />
+        <item itemvalue="Python tests.Python tests for tests.DLLTests.test_remove" />
+        <item itemvalue="Python tests.Python tests for tests.DLLTests.test_find_all" />
+        <item itemvalue="Python tests.Python tests for tests.DLLTests.test_find" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3c1b57-2faa-4299-a858-8bb335ebc735" name="Changes" comment="" />
+      <created>1769286374742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769286374742</updated>
+      <workItem from="1769286375988" duration="3751000" />
+      <workItem from="1769372802841" duration="11063000" />
+      <workItem from="1769437062410" duration="422000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished CC02">
+      <option name="closed" value="true" />
+      <created>1769290112998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769290112998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished All but Last Two Sections">
+      <option name="closed" value="true" />
+      <created>1769403828046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769403828046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished Second to Last Section">
+      <option name="closed" value="true" />
+      <created>1769437433376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769437433376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished CC02" />
+    <MESSAGE value="Finished All but Last Two Sections" />
+    <MESSAGE value="Finished Second to Last Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Second to Last Section" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cse_331$.coverage" NAME=" Coverage Results" MODIFIED="1769437389804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project01" />
+  </component>
+</project>

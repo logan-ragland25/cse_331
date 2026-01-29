@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CC02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CC01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project01" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/CC03" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12 (cse_331)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
