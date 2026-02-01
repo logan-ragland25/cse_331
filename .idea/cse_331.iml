@@ -5,11 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CC02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CC01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Project01" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/CC03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CC03" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (cse_331)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
